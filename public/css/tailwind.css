@@ -32245,6 +32245,16 @@ video {
   content: none;
 }
 
+.text-pink-300 {
+  --tw-text-opacity: 1;
+  color: rgba(249, 168, 212, var(--tw-text-opacity));
+}
+
+.text-6xl {
+  font-size: 3.75rem;
+  line-height: 1;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
